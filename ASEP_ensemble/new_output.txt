@@ -1,0 +1,55 @@
+# Simulation of a system with the following properties and parameters:
+#
+# System configuration
+# System size:					20
+# Boundary conditions:			periodic
+# Start with empty system:		no
+# Initial spatial density:		0.3
+#
+# Particle properties
+# Rates of the different actions:
+# Hop right:					0.125
+# Hop left:						0
+# Been pushed:					1
+# Been repelled:				0
+# Attach:						0
+# Detach:						0
+Optinal:
+# Enter from the left:			0
+# Leave at the left:			0
+# Kicked out left:				0
+# Enter from the right:			0
+# Leave at the right:			0
+# Kicked out right:				0
+End Optional
+#
+# Seed:							175
+#
+# Simulation time t =			t max
+# Time between snaps shots t =	delta_t
+# Number of simulated steps:	68
+# Simulation ended because:		??? t_max was reached ??
+# Recorded quantities:			density
+#
+#
+# Density profile in the system at time(time_point[i]):
+0.2
+0.2
+0
+0
+0.4
+0
+0.2
+0
+0.2
+0.4
+0
+0
+0
+0.6
+0
+0.4
+0.4
+0.2
+0.4
+0.4

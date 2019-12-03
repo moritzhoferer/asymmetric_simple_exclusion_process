@@ -1,0 +1,26 @@
+ 0 ensemble_size
+ 1 sites
+ 2 boudary_cond
+ 3 obc_option 
+ 4 empty_sys
+ 5 rho_1 (left)
+ 6 rho_2 (right)
+ 7 r_right
+ 8 r_left
+ 9 r_push
+10 r_repel
+11 r_on
+12 r_off
+13 r_in_left
+14 r_out_left
+15 r_in_right
+16 r_out_right
+17 seed
+18 t_max 
+19 delta_t 
+20 rec_density
+21 rec_current 
+
+
+
+

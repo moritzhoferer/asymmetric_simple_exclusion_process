@@ -1,0 +1,41 @@
+# Simulation of a system with the following properties and parameters:
+#
+# System configuration
+# System size:					10
+# Boundary conditions:			open/periodic
+# Start with empty system:		yes/no
+# Initial spatial density:		0.4
+# Final spatial density:		0.4
+#
+# Particle properties
+# Rates of the different actions:
+# Hop right:					0
+# Hop right:					1
+# Been pushed:					0
+# Been repelled:				1
+# Attach:						0
+# Detach:						0
+# Enter from the left:			0
+# Leave at the left:			1
+# Enter from the right:			1
+# Leave at the right:			0
+#
+# Simulation time t =			t_now /t_max
+# Recording starts at t = 		t_first/t_min
+# Number of simulated steps:	step_count
+# Trigger of truncation:		t_max/iteration_max reached/no more possible actions
+# Recorded quantities:			density, current
+# Seed:							1752
+#
+#Density profile at time(313.04): 
+0.312523
+0.409574
+0.392115
+0.523917
+0.593877
+0.601822
+0.625712
+0.638813
+0.714419
+0.690977
+
